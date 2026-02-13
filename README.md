@@ -1,5 +1,5 @@
-<h1 align="center">Привет! Меня зовут Настя</h1>
-<h3 align="center">Я начинающий тестировщик</h3>
+<h1 align="center">Hi there! My name is Nastya</h1>
+<h3 align="center">I'm data analyst</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
