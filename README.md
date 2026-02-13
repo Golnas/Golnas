@@ -1,7 +1,8 @@
-<h1 align="center">Hi there! My name is Nastya</h1>
-<h3 align="center">I'm data analyst</h3>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nastya</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data analyst from Russia 🇷🇺</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: @GolNastasia</h3>
 <p align="left">
 </p>
 
