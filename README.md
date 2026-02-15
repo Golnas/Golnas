@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nastya</a> 
-<h3 align="center">Data analyst</h3>
+<h1 align="center">Приветствую! Я Головкова Анастасия</a> 
+<h3 align="center">Аналитик данных</h3>
 
 <h3 align="left">Для связи: @GolNastasia тгк</h3>
 <p align="left">
