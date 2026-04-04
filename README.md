@@ -2,8 +2,8 @@
 <h3 align="center">Обо мне:</h3>
 Я - начинающий аналитик данных. Свою работу с данными начала во время работы с количественными исследованиями в области фармакогнозии. Для меня важно находить конкретные, измеримые решения на основе анализа данных и статистических методов. 
 
-<h3 align="left">Связь со мной: 
-[Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</h3>
+<h3 align="left">Связь со мной:</h3> 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(t.me/GolNastasia)]
 <p align="left">
 </p>
 
