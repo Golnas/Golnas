@@ -3,7 +3,8 @@
 Я - начинающий аналитик данных. Свою работу с данными начала во время работы с количественными исследованиями в области фармакогнозии. Для меня важно находить конкретные, измеримые решения на основе анализа данных и статистических методов. 
 
 <h3 align="left">Связь со мной:</h3> 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/GolNastasia)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GolNastasia)
 <p align="left">
 </p>
 
@@ -15,6 +16,7 @@
 
 
 <h3 align="left">Языки и инструменты:</h3> 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	
