@@ -17,7 +17,7 @@
 |  3| [Cross-product analytics](https://disk.yandex.ru/i/BAju_scuV40olg) | Дашборд с анализом пересечений аудиторий продуктов, исследовала вовлечённость пользователей, построение метрик DAU, WAU | SQL Apache Superset|
 |  4| [Такси-сервис (Перу)](https://github.com/Golnas/Taxi_analys) | Создала бизнес-метрики (MAU, late_score), провела datetime-парсинг, merge двух датасетов| Pandas, Seaborn, Matplotlib|
 |  5| [A/B тест](https://github.com/Golnas/a-b_test) |  Анализ A/B-теста новой механики оплаты: очистила данные, выбрала ключевые метрики для анализа (ARPPU,RR) | A/B тесты, Retention, ICE|
-|  6| [UX-ANALYSIS](https://github.com/Golnas/UX-analysis) |  Независимый UX-аналитический проект, посвящённый исследованию пользовательского опыта и выявлению проблем в интерфейсе цифрового сервиса | UX-аудит|
+|  6| [UX-analysis](https://github.com/Golnas/UX-analysis) |  Независимый UX-аналитический проект, посвящённый исследованию пользовательского опыта и выявлению проблем в интерфейсе цифрового сервиса | UX-аудит|
 
 
 <h3 align="left">Языки и инструменты:</h3> 
